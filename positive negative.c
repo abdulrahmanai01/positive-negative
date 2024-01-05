@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int positivenegative()
 {
     int a;                                                   
     printf("Enter the value:");

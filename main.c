@@ -1,9 +1,12 @@
 #include <stdio.h>
-#include "addoreven.c"
-#include "positive negative.c"
-
+//#include "oddoreven.c"
+//#include "positive negative.c"
+//#include "forloop.c"
+#include "switch1.c"
 int main()
 {
-    addoreven();
-    positivenegative();
+    //oddoreven();
+    //positivenegative();
+    //forloop();
+    switch1();
 }

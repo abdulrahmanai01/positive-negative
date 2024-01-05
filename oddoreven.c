@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int oddoreven()
 {
     int a;
     printf("Enter the value A  :");
